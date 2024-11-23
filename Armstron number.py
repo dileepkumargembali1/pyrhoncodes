@@ -1,4 +1,5 @@
 #test weather the given number is an armstron number or not
+print("This is only for arm stron number")
 num=input()
 number=int(num)
 sum=0
